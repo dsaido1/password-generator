@@ -29,7 +29,7 @@ Your password is: T7$kLp9#zW
 
 ## Requirements
 - Python 3.10+
-- No external libraries — uses only Python's standard library (`random`, `string`)
+- No external libraries, uses only Python's standard library (`random`, `string`)
 
 ---
 
@@ -38,7 +38,3 @@ Your password is: T7$kLp9#zW
 ```bash
 python password_generator.py
 ```
-
----
-
-*Part of an ongoing series of Python automation projects.*
